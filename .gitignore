@@ -7,10 +7,11 @@ __pycache__/
 .venv/
 
 # Ignore app data
-app/data
+Siamese Neural Network/app/data
 # app/data/anchor/
 # app/data/positive/
 # app/data/negative
-lfw-deepfunneled/
-app/application_data
-app/face_model/*.pth
+Siamese Neural Network/lfw-deepfunneled/
+Siamese Neural Network/app/application_data
+Siamese Neural Network/app/face_model/*.pth
+Siamese Neural Network/app/face_model/*.pth
